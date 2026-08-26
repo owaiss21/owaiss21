@@ -17,15 +17,15 @@ Lately that's meant building real-time perception systems for automotive safety,
 
 ### Focus Areas
 
-- **Computer Vision** — object detection, segmentation, multi-object tracking, and pose estimation for real-world video pipelines
-- **Edge & Real-Time Inference** — model optimization and quantization with TensorRT for deployment on Jetson and Raspberry Pi class hardware
-- **Applied LLMs** — RAG systems, vector search, agentic pipelines, and multimodal reasoning over audio, video, and text
-- **Speech & Multimodal AI** — ASR, TTS, and lip-synced visual synthesis for conversational AI systems
-- **Responsible ML** — bias mitigation and fairness in facial recognition and biometric systems
+- **Computer Vision** — object detection, segmentation, multi-object tracking, and pose estimation for real-world video pipelines.
+- **Edge & Real-Time Inference** — model optimization and quantization with TensorRT for deployment on Jetson and Raspberry Pi class hardware.
+- **Applied LLMs** — RAG systems, vector search, agentic pipelines, and multimodal reasoning over audio, video, and text.
+- **Speech & Multimodal AI** — ASR, TTS, and lip-synced visual synthesis for conversational AI systems.
+- **Responsible ML** — bias mitigation and fairness in facial recognition and biometric systems.
 
 ### Education
 
-**BS Software Engineering, DHA Suffa University** — with academic honor of Gold Medal
+**BS Software Engineering, DHA Suffa University** — with academic honor of Gold Medal.
 
 ### Research
 
