@@ -1,6 +1,10 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=owaiss21.owaiss21" alt="Profile views" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Muhammad+Owais+Mahmood;Machine+Learning+Engineer" alt="Typing SVG" />
+
+<sub>Computer vision and applied LLM systems, built for real-world constraints</sub>
 
 </div>
 
