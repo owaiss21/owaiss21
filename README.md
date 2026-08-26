@@ -25,7 +25,7 @@ Lately that's meant building real-time perception systems for automotive safety,
 
 ### Education
 
-**BS Software Engineering, DHA Suffa University** — with academic honors of Gold Medal.
+**BS Software Engineering, DHA Suffa University** — with academic honor of Gold Medal
 
 ### Research
 
