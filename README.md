@@ -6,25 +6,24 @@
 
 ### About
 
-I'm a Machine Learning Engineer at ByteCorp in Karachi. I work mostly in computer vision and applied LLM systems, and a good chunk of what I build has to run on constrained hardware or under tight latency budgets, so a lot of my day-to-day is spent on inference optimization as much as modeling itself.
+I build machine learning systems that have to work under real constraints, whether that's an edge device with limited compute, a latency budget measured in milliseconds, or a production environment that doesn't tolerate downtime. My work sits at the intersection of computer vision, NLP, and applied LLM systems, with a strong focus on taking models from research to something that actually runs reliably in the field.
 
-Some of the things I've worked on recently: a real-time driving hazard detection framework running on Jetson Nano and Raspberry Pi, a voice-driven AI interviewing platform with sub-500ms response latency, and bias mitigation techniques for facial recognition systems. I also co-authored a paper on Arabic-English machine translation, published at ICMLT 2025 and indexed in IEEE Xplore, where our approach outperformed Google Translate on BLEU score.
+Lately that's meant building real-time perception systems for automotive safety, optimizing multimodal AI pipelines for sub-second response times, and working on fairness and bias correction in vision models. I care about the full lifecycle of a model, not just training it, but profiling it, quantizing it, and getting it to run fast on hardware that wasn't designed for it.
 
-Before this, I was a Research Engineer on the same team, and interned as a Data Scientist at TechBlent building resume parsing and RAG-based candidate search tools.
+### Focus Areas
 
-- BS Software Engineering, DHA Suffa University, Gold Medalist
-- Interested in computer vision, edge AI deployment, and NLP
+- **Computer Vision** — object detection, segmentation, multi-object tracking, and pose estimation for real-world video pipelines
+- **Edge & Real-Time Inference** — model optimization and quantization with TensorRT for deployment on Jetson and Raspberry Pi class hardware
+- **Applied LLMs** — RAG systems, vector search, agentic pipelines, and multimodal reasoning over audio, video, and text
+- **Speech & Multimodal AI** — ASR, TTS, and lip-synced visual synthesis for conversational AI systems
+- **Responsible ML** — bias mitigation and fairness in facial recognition and biometric systems
 
-### Links
+### Research
 
-<div align="center">
+**ALEF: An Enhanced Approach to Arabic-English Bilingual Translation**
+An mBART-based neural machine translation framework refined with LLM post-processing, reaching a 38.97 BLEU score and outperforming Google Translate on the benchmark used. Published at ICMLT 2025 and indexed in IEEE Xplore.
 
-<a href="mailto:owais.mahmood21@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/owaiss21"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&user=OIOW-NkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
-<a href="https://doi.org/10.1109/ICMLT65785.2025.11193298"><img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=flat-square&logo=ieee&logoColor=white" /></a>
-
-</div>
+[Read the paper](https://doi.org/10.1109/ICMLT65785.2025.11193298) · [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&user=OIOW-NkAAAAJ)
 
 ### Stack
 
@@ -35,22 +34,16 @@ Before this, I was a Research Engineer on the same team, and interned as a Data 
 </div>
 
 <div align="center">
-<sub>Computer Vision &nbsp;&middot;&nbsp; NLP &nbsp;&middot;&nbsp; LLMs &amp; RAG &nbsp;&middot;&nbsp; TensorRT &nbsp;&middot;&nbsp; Edge Deployment</sub>
+<sub>Python &nbsp;&middot;&nbsp; PyTorch &nbsp;&middot;&nbsp; TensorFlow &nbsp;&middot;&nbsp; OpenCV &nbsp;&middot;&nbsp; LangChain &nbsp;&middot;&nbsp; HuggingFace &nbsp;&middot;&nbsp; TensorRT &nbsp;&middot;&nbsp; Docker</sub>
 </div>
 
-
-### GitHub Stats
+### Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=owaiss21&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaiss21&layout=compact&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=owaiss21&hide_border=true" />
+<a href="mailto:owais.mahmood21@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/owaiss21"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&user=OIOW-NkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
 
 </div>
 
