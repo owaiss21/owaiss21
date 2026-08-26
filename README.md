@@ -25,9 +25,7 @@ Lately that's meant building real-time perception systems for automotive safety,
 
 ### Education
 
-**BS Software Engineering, DHA Suffa University** — Gold Medalist
-
-Awarded the University Gold Medal for the top academic standing in the program. Coursework included Data Structures & Algorithms, Machine Learning, Data Science, and Big Data Analytics.
+**BS Software Engineering, DHA Suffa University** — with academic honors of Gold Medal.
 
 ### Research
 
@@ -48,13 +46,6 @@ An mBART-based neural machine translation framework refined with LLM post-proces
 <sub>Python &nbsp;&middot;&nbsp; PyTorch &nbsp;&middot;&nbsp; TensorFlow &nbsp;&middot;&nbsp; OpenCV &nbsp;&middot;&nbsp; LangChain &nbsp;&middot;&nbsp; HuggingFace &nbsp;&middot;&nbsp; TensorRT &nbsp;&middot;&nbsp; Docker</sub>
 </div>
 
-### Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/owaiss21/owaiss21/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-
-</div>
 
 ### Connect
 
