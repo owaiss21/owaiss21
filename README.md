@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Muhammad+Owais+Mahmood;Machine+Learning+Engineer" alt="Typing SVG" />
 
-<sub>Ever since I was young, I wanted to transform unstructured data into actionable business insights to maximize shareholder's value</sub>
+<sub>Ever since I was young, I wanted to transform unstructured data into actionable business insights to maximize shareholder's value.</sub>
 
 </div>
 
@@ -60,10 +60,4 @@ An mBART-based neural machine translation framework refined with LLM post-proces
 
 <div align="center">
 <sub>Karachi, Pakistan</sub>
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/owaiss21/owaiss21/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-
 </div>
