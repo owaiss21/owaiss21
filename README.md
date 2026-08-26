@@ -1,58 +1,43 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Muhammad+Owais+Mahmood;Machine+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+LLMs;Building+real-time+AI+systems+at+the+edge" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Muhammad+Owais+Mahmood;Machine+Learning+Engineer" alt="Typing SVG" />
 
 </div>
 
-### About Me
+### About
 
-I'm a Machine Learning Engineer at ByteCorp in Karachi, working across computer vision, NLP, and applied LLM systems. Most of what I build ends up running somewhere resource-constrained — an edge device, a latency-sensitive pipeline, a production system that has to stay fast under real traffic. That constraint shapes how I approach most problems: get the model working, then get it working efficiently.
+I'm a Machine Learning Engineer at ByteCorp in Karachi. I work mostly in computer vision and applied LLM systems, and a good chunk of what I build has to run on constrained hardware or under tight latency budgets, so a lot of my day-to-day is spent on inference optimization as much as modeling itself.
 
-Recent work has ranged from real-time perception on Jetson Nano and Raspberry Pi to a sovereign AI interviewing platform with sub-500ms end-to-end latency, to bias mitigation in facial recognition systems. I also co-authored a paper on Arabic-English neural machine translation that outperformed Google Translate on BLEU score, published at ICMLT 2025 and indexed in IEEE Xplore.
+Some of the things I've worked on recently: a real-time driving hazard detection framework running on Jetson Nano and Raspberry Pi, a voice-driven AI interviewing platform with sub-500ms response latency, and bias mitigation techniques for facial recognition systems. I also co-authored a paper on Arabic-English machine translation, published at ICMLT 2025 and indexed in IEEE Xplore, where our approach outperformed Google Translate on BLEU score.
 
-- Currently building perception and inference pipelines for real-time systems at ByteCorp
-- Working with YOLOv8, DeepLabV3+, TensorRT, and multimodal LLM pipelines on a regular basis
-- Graduated with a Gold Medal in Software Engineering from DHA Suffa University
-- Open to conversations on computer vision, edge deployment, and applied NLP
+Before this, I was a Research Engineer on the same team, and interned as a Data Scientist at TechBlent building resume parsing and RAG-based candidate search tools.
 
-### Connect
+- BS Software Engineering, DHA Suffa University, Gold Medalist
+- Interested in computer vision, edge AI deployment, and NLP
+
+### Links
 
 <div align="center">
 
-<a href="mailto:owais.mahmood21@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/owaiss21"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://doi.org/10.1109/ICMLT65785.2025.11193298"><img src="https://img.shields.io/badge/Published_Paper-IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></a>
+<a href="mailto:owais.mahmood21@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/owaiss21"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&user=OIOW-NkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
+<a href="https://doi.org/10.1109/ICMLT65785.2025.11193298"><img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=flat-square&logo=ieee&logoColor=white" /></a>
 
 </div>
 
-### Tech Stack
+### Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,bash,cpp,vscode" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,linux,bash,cpp" />
 
 </div>
 
 <div align="center">
-<sub>Computer Vision &nbsp;&middot;&nbsp; NLP &nbsp;&middot;&nbsp; LLMs &nbsp;&middot;&nbsp; RAG &amp; Vector Databases &nbsp;&middot;&nbsp; AI Agents &nbsp;&middot;&nbsp; TensorRT &nbsp;&middot;&nbsp; Edge Deployment</sub>
+<sub>Computer Vision &nbsp;&middot;&nbsp; NLP &nbsp;&middot;&nbsp; LLMs &amp; RAG &nbsp;&middot;&nbsp; TensorRT &nbsp;&middot;&nbsp; Edge Deployment</sub>
 </div>
 
-### Selected Work
-
-**Autilent Road Safety Perception Framework**
-Real-time driving hazard assessment combining YOLOv8 scene understanding, DeepLabV3+ lane and drivable-area segmentation, and physics-informed Time-to-Collision modeling. Optimized with TensorRT for edge inference on Jetson Nano and Raspberry Pi, reaching 25 FPS on-device.
-
-**Sovereign AI Interviewing Platform**
-An adaptive interview system built for Saudi data-sovereignty requirements — open-source LLM for question generation and psychometric scoring, Whisper for speech recognition, Kokoro for TTS, and a lip-synced visual synthesis stack (Wav2Lip, LivePortrait, GFPGAN). Quantized end-to-end for sub-500ms response latency.
-
-**ALEF — Arabic-English Neural Machine Translation** · [Paper](https://doi.org/10.1109/ICMLT65785.2025.11193298)
-An mBART-based NMT framework refined with LLM post-processing, reaching a 38.97 BLEU score and outperforming Google Translate on the benchmark. Published at ICMLT 2025, indexed in IEEE Xplore.
-
-**Customer Acquisition Analytics System**
-Multi-camera retail analytics pipeline using YOLOv8 detection, DeepSORT tracking, and MediaPipe pose estimation to derive footfall, dwell time, and conversion-funnel metrics from live video streams.
-
-**Knowledge Distillation & Synthetic Data Generation**
-Teacher-student distillation pipeline using LLaMA-3.3 (70B) and GPT-4 to generate synthetic instruction data, cutting acquisition costs by 85% while reaching 92% of teacher-model performance in a much smaller footprint.
 
 ### GitHub Stats
 
@@ -65,7 +50,7 @@ Teacher-student distillation pipeline using LLaMA-3.3 (70B) and GPT-4 to generat
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=owaiss21&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=owaiss21&hide_border=true" />
 
 </div>
 
