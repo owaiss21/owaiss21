@@ -18,6 +18,12 @@ Lately that's meant building real-time perception systems for automotive safety,
 - **Speech & Multimodal AI** — ASR, TTS, and lip-synced visual synthesis for conversational AI systems
 - **Responsible ML** — bias mitigation and fairness in facial recognition and biometric systems
 
+### Education
+
+**BS Software Engineering, DHA Suffa University** — Gold Medalist, graduating class
+
+Awarded the University Gold Medal for the top academic standing in the graduating class. Coursework included Data Structures & Algorithms, Machine Learning, Data Science, and Big Data Analytics.
+
 ### Research
 
 **ALEF: An Enhanced Approach to Arabic-English Bilingual Translation**
@@ -35,6 +41,14 @@ An mBART-based neural machine translation framework refined with LLM post-proces
 
 <div align="center">
 <sub>Python &nbsp;&middot;&nbsp; PyTorch &nbsp;&middot;&nbsp; TensorFlow &nbsp;&middot;&nbsp; OpenCV &nbsp;&middot;&nbsp; LangChain &nbsp;&middot;&nbsp; HuggingFace &nbsp;&middot;&nbsp; TensorRT &nbsp;&middot;&nbsp; Docker</sub>
+</div>
+
+### Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/owaiss21/owaiss21/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
 </div>
 
 ### Connect
