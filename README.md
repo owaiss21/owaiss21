@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Muhammad+Owais+Mahmood;Machine+Learning+Engineer" alt="Typing SVG" />
 
-<sub>Computer vision and applied LLM systems, built for real-world constraints</sub>
+<sub>Ever since I was young, I wanted to transform unstructured data into actionable business insights to maximize shareholder's value</sub>
 
 </div>
 
@@ -24,9 +24,9 @@ Lately that's meant building real-time perception systems for automotive safety,
 
 ### Education
 
-**BS Software Engineering, DHA Suffa University** — Gold Medalist, graduating class
+**BS Software Engineering, DHA Suffa University** — Gold Medalist
 
-Awarded the University Gold Medal for the top academic standing in the graduating class. Coursework included Data Structures & Algorithms, Machine Learning, Data Science, and Big Data Analytics.
+Awarded the University Gold Medal for the top academic standing in the program. Coursework included Data Structures & Algorithms, Machine Learning, Data Science, and Big Data Analytics.
 
 ### Research
 
@@ -51,7 +51,7 @@ An mBART-based neural machine translation framework refined with LLM post-proces
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/owaiss21/owaiss21/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/owaiss21/owaiss21/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 
 </div>
 
